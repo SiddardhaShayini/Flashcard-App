@@ -14,7 +14,7 @@
 
 - If you encounter or witness any behavior that doesn't align with these standards, please contact us at [siddardhashayini9@gmail.com]. We will handle all reports respectfully and confidentially.
 
-###Enforcement
+### Enforcement
 
 - We expect everyone to follow this Code of Conduct. If issues arise, we will address them appropriately to ensure a positive and respectful environment for all.
 
