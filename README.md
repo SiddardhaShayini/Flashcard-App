@@ -26,3 +26,16 @@ A versatile and user-friendly flashcard application designed to help users learn
 1. Clone the repository:
    ```bash
    git clone https://github.com/SiddardhaShayini/Flashcard-App.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd flashcard-app
+
+3. Open 'index.html' in your preferred web browser to run the application.
+
+### Usage
+
+- Add Flashcards: Use the provided forms to create new flashcards.
+- View Flashcards: Browse through your flashcards and review them.
+- Export Flashcards: Export your flashcards to your desired format using the export functionality.
