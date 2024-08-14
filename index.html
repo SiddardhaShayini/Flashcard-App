@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Flashcard App</h1>
+        <div class="flashcard-wrapper">
+            <div class="flashcard" id="flashcard">
+                <div class="flashcard-inner">
+                    <div class="front">
+                        <h2 id="term">Term</h2>
+                    </div>
+                    <div class="back">
+                        <h2 id="definition">Definition</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="controls">
+            <button id="prev-btn">Previous</button>
+            <button id="flip-btn">Flip Card</button>
+            <button id="next-btn">Next</button>
+        </div>
+        <div class="input-form">
+            <input type="text" id="term-input" placeholder="Enter term">
+            <input type="text" id="definition-input" placeholder="Enter definition">
+            <button id="add-btn">Add Flashcard</button>
+        </div>
+        <button id="download-btn">Download Flashcards</button>
+    </div>
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</body>
+</html>
